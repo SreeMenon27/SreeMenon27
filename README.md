@@ -1,63 +1,50 @@
-### Hi there 👋
+# Hi there, I'm Sreekala (Sree) 👋  
 
-# 👋 Hi there, I'm Sreekala (Sree) Menon!
-
-🎯 A lifelong learner transitioning from **Project Management**into **Data Science** and **GenAI**  
-📍 Based in Texas | 💻 Currently learning through the **Ultimate Data Science & GenAI Bootcamp by Krish Naik Academy**
+🌟 Passionate about turning data into insight and ideas into impact.
 
 ---
 
-## 🔧 Projects I'm Proud Of
+## 🚀 About Me
 
-### 📊 [Finance Tracker CLI App](https://github.com/SreeMenon27/FinanceTracker)
-A Python-based command-line application to help users track income and expenses efficiently.
-
-**Key Skills Applied:**
-- File operations with JSON
-- Private methods for encapsulation
-- Modular structure across multiple files
-- Python data structures (lists, dictionaries)
-- String formatting for terminal reports
-- Timestamps for transaction tracking
-
-> Proud moment: My first end-to-end project that brings real-world utility to personal finance!
+- 🔭 Currently exploring **Data Science**, **Generative AI**, and **Python Development**  
+- 🎯 Developed a **Finance Tracker CLI app** to manage personal expenses  
+- 📊 Background in **Project Management** — organizing, planning, and delivering results  
+- 🌱 Enrolled in **Ultimate Data Science & GenAI Bootcamp** by Krish Naik Academy  
+- 🧠 Constantly learning through real-world projects and hands-on coding  
+- ✨ Believer in clean code, modular design, and continuous learning
 
 ---
 
-## 🚀 What I'm Currently Learning
-- 📌 Python for Data Science
-- 📌 Pandas & NumPy
-- 📌 Matplotlib & Seaborn (Data Visualization)
-- 📌 Machine Learning Foundations
-- 📌 Git & GitHub for Version Control
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Tech I'm Using
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+## 🧰 Projects
+
+🔹 **[Finance Tracker CLI App](https://github.com/SreeMenon27/FinanceTracker)**  
+A terminal-based personal finance manager that tracks income and expenses, organizes data in JSON format, and generates reports.
+
+> 💡 Key Concepts Used:
+> - File operations with JSON  
+> - Modular Python structure  
+> - String formatting for terminal UI  
+> - Category selection logic  
+> - Timestamps for entries
 
 ---
 
-## 🌱 Goals for 2025
-- Build 3+ data-driven projects using real-world datasets  
-- Complete a capstone ML project  
-- Apply for data-related internships 🎯
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sreekala-menon/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SreeMenon27)
 
 ---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/sreekalamenon/)  
-- [GitHub](https://github.com/SreeMenon27)  
-- 📬 Reach me at: sreemenon27@gmail.com
-
----
-
-### ⚡ Fun Fact
-When I'm not coding, you'll find me making mandalas or chilling with my family!
-
+_📬 Let’s learn and build together. Data + Code = 🚀_
