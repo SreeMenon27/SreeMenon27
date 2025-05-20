@@ -7,11 +7,11 @@
 ## 🚀 About Me
 
 - 🔭 Currently exploring **Data Science**, **Generative AI**, and **Python Development**  
-- 🎯 Developed a **Finance Tracker CLI app** to manage personal expenses  
+- 🧾 Built a **Finance Tracker CLI app** and a **Pantry Tracker CLI app** for real-world automation  
 - 📊 Background in **Project Management** — organizing, planning, and delivering results  
-- 🌱 Enrolled in **Ultimate Data Science & GenAI Bootcamp** by Krish Naik Academy  
-- 🧠 Constantly learning through real-world projects and hands-on coding  
-- ✨ Believer in clean code, modular design, and continuous learning
+- 🎓 Enrolled in the **Ultimate Data Science & GenAI Bootcamp** by Krish Naik Academy  
+- 💡 Constantly learning through hands-on projects and real-world challenges  
+- ✨ Advocate for clean code, modular design, and lifelong learning
 
 ---
 
@@ -29,14 +29,22 @@
 ## 🧰 Projects
 
 🔹 **[Finance Tracker CLI App](https://github.com/SreeMenon27/FinanceTracker)**  
-A terminal-based personal finance manager that tracks income and expenses, organizes data in JSON format, and generates reports.
+A command-line tool to manage personal income and expenses with organized data stored in JSON.
 
-> 💡 Key Concepts Used:
-> - File operations with JSON  
-> - Modular Python structure  
-> - String formatting for terminal UI  
-> - Category selection logic  
-> - Timestamps for entries
+> 💡 Key Features:
+> - Transaction logging with timestamps  
+> - JSON file operations  
+> - Modular structure with category and type-based views  
+> - Simple CLI-based navigation
+
+🔹 **[Pantry Tracker CLI App](https://github.com/SreeMenon27/PantryTracker)**  
+A Python-based CLI application to manage kitchen inventory—add, view, delete items with category/unit types.
+
+> 💡 Key Features:
+> - Input validation and error handling  
+> - Item tracking by name, category, quantity, and date  
+> - JSON-based persistent storage  
+> - Modular code with clean UI formatting
 
 ---
 
